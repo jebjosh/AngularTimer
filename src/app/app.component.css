@@ -1,0 +1,26 @@
+.timerbox {
+  height: 600px;
+  width: 600px;
+  background-color: black;
+  margin: 0 auto;
+  color: white;
+}
+
+.timedisplay {
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(19, 19, 19);
+}
+
+.btn {
+  color: black;
+  background-color: white;
+  font-size: large;
+  margin: 10px;
+}
+
+.controls {
+  margin: 0 auto;
+  background-color: rgb(19, 19, 19);
+  text-align: center;
+}

@@ -1,3 +1,4 @@
+https://user-images.githubusercontent.com/20194959/167453398-a97eb673-d5fd-4c18-8761-ffd2c0db0569.mp4
 # Timer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
